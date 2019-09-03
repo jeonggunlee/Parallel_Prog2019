@@ -1,8 +1,7 @@
 # Parallel Programming for Graduates @ Hallym University
-# GPU를 이용한 병렬 프로그래밍 (CUDA 병렬 프로그래밍)
 ## High Performance Parallel Programming with Nvidia GPU and CUDA
 
-- 강사: 이정근, 한림대학교 소프트웨어융합대학 교수 (Lecturer: Jeong-Gun Lee, Hallym University)
+- Lecturer: ```Jeong-Gun Lee```, School of Software & Depart. of Computer Engineering, Hallym University
 - Web: www.onchip.net
 
 ### 주요 자료 (Main Teaching Materials)
