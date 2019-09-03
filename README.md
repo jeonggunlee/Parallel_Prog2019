@@ -1,7 +1,7 @@
 # Parallel Programming for Graduates @ Hallym University
 ## High Performance Parallel Programming with Nvidia GPU and CUDA
 
-- Lecturer: ```Jeong-Gun Lee```, School of Software & Depart. of Computer Engineering, Hallym University
+- Lecturer: ```Jeong-Gun Lee```, School of Software, Hallym University
 - Web: www.onchip.net
 
 ### 주요 자료 (Main Teaching Materials)
