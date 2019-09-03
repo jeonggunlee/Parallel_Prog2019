@@ -40,8 +40,6 @@
    - [YOLO 객체인식 Main 홈페이지](https://pjreddie.com/darknet/)
    - [YOLO 객체인식 동영상](https://www.youtube.com/watch?v=MPU2HistivI)
 
-- 대학원생 멘토 지원
-
 *  *  *
 
 ## REFERENCES (참조Sites)
