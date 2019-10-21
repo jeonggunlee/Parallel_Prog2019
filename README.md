@@ -31,6 +31,18 @@
 - [옵션] Host-GPU 인터페이싱: Streams
 - [옵션] Host-GPU 인터페이싱: Streams 실습
 
+
+## Student Presentation Schedule
+  - 11월 4일
+    - 김동영
+    - 한이슬
+    - 정재민
+  - 11월 11일
+    - 박지성
+    - 김민재
+    - 우윤희
+    - 김형훈
+    
 ## Capstone (스케쥴)
 - ```Nvidia Jetson Board```를 이용한 지능형 CCTV 개발 프로젝트
    - [Nvidia 사이트 정보](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
